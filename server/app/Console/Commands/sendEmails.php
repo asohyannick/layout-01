@@ -19,8 +19,6 @@ class sendEmails extends Command
      * @var string
      */
     protected $description = 'Command description';
-    $wages-> 'Great';
-
     /**
      * Execute the console command.
      */
